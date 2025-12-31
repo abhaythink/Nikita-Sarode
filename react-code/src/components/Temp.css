@@ -1,0 +1,14 @@
+.tempName {
+    background-color: lightpink;
+    color: red;
+
+    width: 50% ;
+    visibility:visible;
+    padding: 10px;
+
+}
+
+p{
+    color: rgb(230, 188, 188);
+}
+
