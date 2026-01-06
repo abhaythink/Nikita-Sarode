@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.form-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  border: 1px solid white;
+  padding: 20px;
+}
+
+.form-container input {
+  padding: 10px;
+}
+
+.form-container > button {
+  padding: 10px;
+  grid-column: span 2;
+}
+
+
+label{
+  color: black;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+li
+{
+  color: rgb(46, 38, 38);
+  font-family: 'Arial Narrow Bold', sans-serif;
+  list-style-type: none;
+
+  
+}
