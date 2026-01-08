@@ -1,0 +1,46 @@
+
+body {
+            font-family: Arial, sans-serif;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+    }    
+table
+{
+    border: 1px solid black;
+    width: 100%;
+    text-align: left;
+}
+
+
+th
+{
+            background-color: #175c64;
+            color: white;
+            padding: 10px;
+}
+
+td
+{
+    padding: 10px;
+}
+#create
+ {
+           padding: 5px ;
+            background-color: #3c8aae;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            margin-left: 90% ;
+            cursor: pointer;
+}
+
+td>button{
+    padding: 9px;
+    background-color: #a0d6ef;
+    border: none;
+    cursor: pointer;
+
+}
+

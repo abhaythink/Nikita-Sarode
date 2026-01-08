@@ -1,0 +1,32 @@
+.formContainer {
+  display: flex;
+  justify-content: center ;
+  margin-top: 50px;
+}
+.patient-form {
+  width: 350px;
+  padding: 20px;
+  border: 1px solid #661818;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.patient-form label {
+  display: block  ;
+}
+
+.patient-form input {
+  width: 100%;
+  padding : 6px;
+  margin-bottom: 15px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  
+}
+.patient-form button {
+  width: 100%;
+  padding: 7px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
